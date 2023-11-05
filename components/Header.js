@@ -1,5 +1,3 @@
-// components/Header.js
-
 import Link from 'next/link';
 import styles from '../styles/components/Header.module.css';
 const Header = () => {
